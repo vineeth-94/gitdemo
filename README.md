@@ -1,2 +1,2 @@
 # gitdemo
-we are doing git commit
+we are doing git commit .
