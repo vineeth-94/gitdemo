@@ -1,2 +1,0 @@
-# gitdemo
-WE ARE DOING GIT COMMIT
